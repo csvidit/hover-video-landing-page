@@ -1,0 +1,101 @@
+body{
+/* 	background-color: black; */
+}
+
+#main-body{
+	height: 100vh;
+	background-size: fixed;
+	/*background-image: url(https://main-landing.viditkhandelwal.repl.co/assets/background.png);*/
+	scroll-behaviour: smooth;
+	overflow-x: hidden;
+}
+
+#main-v{
+	
+}
+.main-v
+{
+	max-width: 100px;
+	display: block;
+}
+#main-body{
+	/*background-color: #000000;*/
+	font-family: 'Inter';
+}
+
+.btn-disabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+	pofonts/Inter-events: none;
+}
+
+.footer-text{
+	line-height: 1.5;
+}
+
+#intro{
+	height: 100vh;
+/* 	background-color: black; */
+	scroll-behaviour: smooth;
+	color: white;
+	padding: 10%;
+}
+
+#intro-header{
+	color: white;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+.jumbo-text{
+	font-size: 4em;
+}
+
+.jumbo-u-link{
+	
+}
+
+.jumbo-link{
+	text-decoration: none;
+	color: white;
+}
+
+.jumbo-link:hover{
+	color: white;
+}
+
+.jumbo-links-1:hover:after{
+	background-color: blue;
+}
+
+.bg-transparent{
+	background-color: transparent;
+}
+
+.bg-blue-spec{
+	background-color: #2200C9;
+}
+
+.bg-green-spec{
+	background-color: #006b46;
+}
+
+.bg-red-spec{
+	background-color: #9c1102;
+}
+
+.bg-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
