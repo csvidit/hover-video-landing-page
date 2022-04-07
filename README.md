@@ -2,7 +2,6 @@
 just a concept :)
 
 ## External Dependencies
----
 * Bootstrap
 * JQuery
 * AOS
